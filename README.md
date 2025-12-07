@@ -743,7 +743,8 @@ Os tipos mais comuns são:
 * **Rua**: via urbana comum para veículos e pedestres;
 * **Avenida**: via urbana mais larga, importante para a gestão do fluxo de veículos;
 * **Travessa**: rua estreita, atalho entre vias maiores;
-* **Praça**: espaço público aberto, geralmente com áreas verdes e bancos.
+* **Praça**: espaço público aberto, geralmente com áreas verdes e bancos;
+* **Estrada**: conecta a zona rural, distritos e cidades vizinhas ao perímetro urbano.
 
 As avenidas são os principais eixos de circulação interna, enquanto as estradas ligam a zona urbana à rural e a municípios vizinhos (algumas funcionam como vias de expansão urbana). Servidão, passagem e escadão indicam vias de pedestres ou locais, muitas vezes em áreas de topografia acidentada. Ladeiras indicam vias inclinadas, sobretudo em bairros com relevo montanhoso.
     
