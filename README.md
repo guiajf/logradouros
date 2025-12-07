@@ -1,6 +1,6 @@
 # Mapeamento dos tipos de logradouro com *osmnx*
 
-Anteriormente, utilizamos o pacote *oxmnx* - desenvolvido e mantido por Geoff Boeing, professor de Planejamento Urbano e Análise Espacial da USC - University of Southern California - para análise de redes viárias urbanas. Agora, inspirado em  [*Jack McKew*](https://jackmckew.dev/street-suffix-analysis-colouring-with-python), atualizei o código em Python, escrito pelo cientista de dados, para visualizar as vias públicas de Juiz de Fora/MG, por tipo de logradouro.
+Anteriormente, utilizei o pacote *oxmnx* - desenvolvido e mantido por Geoff Boeing, professor de Planejamento Urbano e Análise Espacial da USC - University of Southern California - para análise de redes viárias urbanas. Agora, inspirado em  [*Jack McKew*](https://jackmckew.dev/street-suffix-analysis-colouring-with-python), atualizei o código em Python, escrito pelo cientista de dados, para visualizar as vias públicas de Juiz de Fora/MG, por tipo de logradouro.
 
 
 ### Importamos as bibliotecas
