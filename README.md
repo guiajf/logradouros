@@ -77,7 +77,7 @@ plt.tight_layout()
 
 
     
-![png](output_15_0.png)
+![png](grafico_1.png)
     
 
 
@@ -765,7 +765,7 @@ fig.savefig('street_type_map.svg',bbox_inches='tight')
 
 
     
-![png](output_28_0.png)
+![png](grafico_2.png)
     
 
 
