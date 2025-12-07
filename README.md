@@ -4,11 +4,6 @@ Anteriormente, utilizamos o pacote *oxmnx* - desenvolvido e mantido por Geoff Bo
 
 Agora, inspirados no [*post*](https://jackmckew.dev/street-suffix-analysis-colouring-with-python) intitulado *Street Suffix Analysis & Colouring with Python*, atualizamos o código escrito pelo cientista de dados Jack McKew para visualização das vias públicas de Juiz de Fora/MG, por tipo de logradouro.
 
-Os tipos mais comuns são: 
-* **Rua**: via urbana comum para veículos e pedestres;
-* **Avenida**: via urbana mais larga, importante para a gestão do fluxo de veículos;
-* **Praça**: espaço público aberto, geralmente com áreas verdes e bancos;
-* **Travessa**: rua estreita, atalho entre vias maiores
 
 ### Importamos as bibliotecas
 
@@ -746,6 +741,12 @@ fig.savefig('street_type_map.svg',bbox_inches='tight')
 
 
 **Considerações finais**
+
+Os tipos mais comuns são: 
+* **Rua**: via urbana comum para veículos e pedestres;
+* **Avenida**: via urbana mais larga, importante para a gestão do fluxo de veículos;
+* * **Travessa**: rua estreita, atalho entre vias maiores;
+* **Praça**: espaço público aberto, geralmente com áreas verdes e bancos.
 
 As avenidas são os principais eixos de circulação interna, enquanto as estradas ligam a zona urbana à rural e a municípios vizinhos (algumas funcionam como vias de expansão urbana). Servidão, passagem e escadão indicam vias de pedestres ou locais, muitas vezes em áreas de topografia acidentada. Ladeiras indicam vias inclinadas, sobretudo em bairros com relevo montanhoso.
     
