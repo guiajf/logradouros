@@ -658,7 +658,7 @@ display(streets)
 </div>
 
 
-### Identificamos os tipos de logradouro
+### Listamos os tipos de logradouro identificados
 
 
 ```python
@@ -712,8 +712,7 @@ streets['street_type'] = streets['name'].apply(get_valid_road_type)
 streets = streets[streets['street_type'].notna()]  # Remove os que não têm tipo válido
 ```
 
-### Plotamos os tipos de logradouro
-
+### Plotamos o gráfico
 
 ```python
 colormap = plt.colormaps.get_cmap('tab20')
